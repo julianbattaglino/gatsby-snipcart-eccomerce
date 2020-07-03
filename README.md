@@ -19,7 +19,7 @@ Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and S
     You will need node and Gatsby installed.
 
     ```shell
-    gatsby new project-name https://github.com/akzhy/gatsby-starter-elemental
+    gatsby new project-name https://github.com/julianbattaglino/gatsby-snipcart-eccomerce
     ```
 
 1.  **Start developing.**
