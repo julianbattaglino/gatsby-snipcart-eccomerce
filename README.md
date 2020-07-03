@@ -8,19 +8,28 @@
   Gatsby's Snipcart E-commerce
 </h1>
 
-Welcome to "Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and Snipcart.
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
-1.  **Start the proyect.**
+1.  **Create a Gatsby site.**
+
+    Use the Gatsby CLI to create a new site, specifying the default starter.
+
+    ```shell
+    # create a new Gatsby site using the default starter
+    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    ```
+
+1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
-    ```gatsby new project-name https://github.com/akzhy/gatsby-starter-elemental
-cd project-name
-gatsby develop
+    ```shell
+    cd my-default-starter/
+    gatsby develop
     ```
 
 1.  **Open the source code and start editing!**
@@ -88,3 +97,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
