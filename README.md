@@ -8,8 +8,9 @@
   Gatsby's Snipcart E-commerce
 </h1>
 
-Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and Snipcart.
+**[LIVE DEMO](https://flamboyant-lewin-a48e1a.netlify.app/)**.
 
+Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and Snipcart.
 
 ## 🚀 Quick start
 
