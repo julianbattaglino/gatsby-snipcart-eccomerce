@@ -14,13 +14,13 @@ Welcome to "Gatsby - Snipcart E-commerce". A simple e-commerce shop built using 
 
 ## 🚀 Quick start
 
-1.  **Start developing.**
+1.  **Start the proyect.**
 
     Navigate into your new site’s directory and start it up.
 
-    ```shell
-    cd my-default-starter/
-    gatsby develop
+    ```gatsby new project-name https://github.com/akzhy/gatsby-starter-elemental
+cd project-name
+gatsby develop
     ```
 
 1.  **Open the source code and start editing!**
