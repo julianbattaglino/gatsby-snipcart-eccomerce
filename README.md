@@ -32,6 +32,6 @@ Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and S
 
 1.  **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`!
+    Your site is now running at `http://localhost:8000`
 
  
