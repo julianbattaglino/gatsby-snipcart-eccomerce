@@ -10,7 +10,7 @@
 
 Welcome to "Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and Snipcart.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+
 
 ## 🚀 Quick start
 
