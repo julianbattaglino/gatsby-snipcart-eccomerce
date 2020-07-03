@@ -22,7 +22,7 @@ Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and S
     gatsby new project-name https://github.com/julianbattaglino/gatsby-snipcart-eccomerce
     ```
 
-1.  **Start developing.**
+2.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -31,8 +31,12 @@ Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and S
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`
 
+4.  **Start building.**
+    ```shell
+    gatsby build
+    ```
  
