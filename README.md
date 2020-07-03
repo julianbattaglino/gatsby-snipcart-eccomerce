@@ -14,9 +14,9 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Start the proyect.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    You will need node and Gatsby installed.
 
     ```shell
     gatsby new project-name https://github.com/akzhy/gatsby-starter-elemental
