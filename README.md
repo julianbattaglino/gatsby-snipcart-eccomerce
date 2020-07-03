@@ -19,8 +19,9 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new project-name https://github.com/akzhy/gatsby-starter-elemental
+    cd project-name
+    gatsby develop
     ```
 
 1.  **Start developing.**
