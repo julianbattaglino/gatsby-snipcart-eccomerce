@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Gatsby Snipcart E-commerce",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple e-commerce shop built using Gatsby and Snipcart.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Julian Battaglino <julianbattaglino@gmail.com>",
   "dependencies": {
     "aos": "^2.3.4",
     "babel-plugin-styled-components": "^1.10.7",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/julianbattaglino/gatsby-snipcart-eccomerce"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
