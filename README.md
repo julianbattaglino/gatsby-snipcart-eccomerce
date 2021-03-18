@@ -8,7 +8,7 @@
   Gatsby's Snipcart E-commerce
 </h1>
 
-**[LIVE DEMO](https://gatsby-bootstrap-snipcart.netlify.app/)**.
+**[LIVE DEMO](https://gatsby-bootstrap-snipcart-ecommerce.netlify.app/)**.
 
 Gatsby - Snipcart E-commerce". A simple e-commerce shop built using Gatsby and Snipcart.
 
