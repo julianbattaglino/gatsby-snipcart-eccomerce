@@ -43,7 +43,7 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()}, Gatsby Snipcart E-commerce Theme Made By
           {` `}
-          <a className="made" href="https://www.studiokrass.com">Julian Battaglino</a>
+          <a className="made" href="https://www.studiokrass.com.ar">Julian Battaglino</a>
         </footer>
       </div>
     </>
